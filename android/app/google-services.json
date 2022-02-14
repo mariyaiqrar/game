@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "201709998392",
+    "project_id": "login-crux",
+    "storage_bucket": "login-crux.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:201709998392:android:2b7449e350e2c0f84571cd",
+        "android_client_info": {
+          "package_name": "com.example.game"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "201709998392-om9jfvoo38f5hnmk07k23qj0bdo3ln0c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATBIJ95kvUYz4bqv3MTd_XtmOlKIoO50c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "201709998392-om9jfvoo38f5hnmk07k23qj0bdo3ln0c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
